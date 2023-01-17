@@ -8,7 +8,6 @@ package-lock.json
 .DS_Store
 .cache
 .rdoc-dist
-.vscode
 
 *.bak
 *.tem
@@ -16,3 +15,7 @@ package-lock.json
 #.swp
 *.*~
 ~*.*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
